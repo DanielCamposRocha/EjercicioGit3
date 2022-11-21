@@ -3,7 +3,10 @@
 1-creo el repositorio en github con readme y gitignore
 ![a](img/Captura.PNG)
 2-creo proyecto en intellij
+
 ![b](img/Captura2.PNG)
+
+
 git remote add origin https://github.com/DanielCamposRocha/EjercicioGit3.git
 3-intento hacer un pull, fallo por tener dos ignore
 4-aumento los fallos haciendo un git rm --cached -r .
@@ -15,7 +18,7 @@ modified:   .idea/workspace.xml
 a22danielcr@W10N-I8E08 MINGW64 /e/Contornos/Intellij/EjercicioGit3 (master)
 $ rm .gitignore
 5-me cargo el ignore del remoto
-![c](img/Captura3.png)
+![c](img/Captura3.PNG)
 a22danielcr@W10N-I8E08 MINGW64 /e/Contornos/Intellij/EjercicioGit3 (master)
 $ git status
 On branch master
@@ -122,8 +125,8 @@ cbf891a (origin/main) Initial commit
 8-Observamos que se ha subido correctamente pero en la rama master (que era en la que estábamos trabajando en local),
 mientras que la rama main se mantiene con su primer commit.
 
-![d](img/Captura4.png)
-![e](img/Captura5.png)
+![d](img/Captura4.PNG)
+![e](img/Captura5.PNG)
 9-Se elimina la rama main en GitHub.
 10- Nueva rama para arreglar un fixbug
 
