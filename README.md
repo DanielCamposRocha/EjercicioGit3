@@ -1,9 +1,9 @@
 # EjercicioGit3
 
 1-creo el repositorio en github con readme y gitignore
-![a](img/Captura.png)
+![a](img/Captura.PNG)
 2-creo proyecto en intellij
-![b](img/Captura2.png)
+![b](img/Captura2.PNG)
 git remote add origin https://github.com/DanielCamposRocha/EjercicioGit3.git
 3-intento hacer un pull, fallo por tener dos ignore
 4-aumento los fallos haciendo un git rm --cached -r .
