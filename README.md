@@ -1,5 +1,6 @@
 # EjercicioGit3
 <h2>1-Creo el repositorio en github con readme y gitignore</h2>
+
 ![a](img/Captura.PNG)
 
 <h2>2-Creo proyecto en intellij</h2>
