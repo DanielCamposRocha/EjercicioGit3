@@ -18,7 +18,10 @@ modified:   .idea/workspace.xml
 a22danielcr@W10N-I8E08 MINGW64 /e/Contornos/Intellij/EjercicioGit3 (master)
 $ rm .gitignore
 5-me cargo el ignore del remoto
+
 ![c](img/Captura3.PNG)
+
+
 a22danielcr@W10N-I8E08 MINGW64 /e/Contornos/Intellij/EjercicioGit3 (master)
 $ git status
 On branch master
@@ -126,7 +129,9 @@ cbf891a (origin/main) Initial commit
 mientras que la rama main se mantiene con su primer commit.
 
 ![d](img/Captura4.PNG)
+
 ![e](img/Captura5.PNG)
+
 9-Se elimina la rama main en GitHub.
 10- Nueva rama para arreglar un fixbug
 
