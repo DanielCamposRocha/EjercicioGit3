@@ -11,8 +11,7 @@ public class Main {
         p.nombre = "Otro nombre";  // Si intentamos cambiar el campo nombre, nos da un error de compilación
         System.out.println(p);
 
-        se elimina el private de nombre para dar acceso y se genera la posibilidad de cambiarlo
-*/
+        se crean los metodos get y set
 
 
     }

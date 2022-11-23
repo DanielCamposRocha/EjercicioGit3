@@ -1,9 +1,25 @@
 public class Empleado {
-    String nombre; // Ahora el campo nombre es inmutable.
-    int edad;
+    private String nombre; // Ahora el campo nombre es inmutable.
+    private int edad;
 
     Empleado(String name, int edad) {
         this.nombre = name;
+        this.edad = edad;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
         this.edad = edad;
     }
 
