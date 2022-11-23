@@ -2,6 +2,7 @@
 
 1-creo el repositorio en github con readme y gitignore
 ![a](img/Captura.PNG)
+
 2-creo proyecto en intellij
 
 ![b](img/Captura2.PNG)
