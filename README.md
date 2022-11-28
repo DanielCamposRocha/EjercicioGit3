@@ -1,5 +1,5 @@
 # EjercicioGit3
-<h2>1-Creo el repositorio en github con readme y gitignore</h2>
+<h1>1-Creo el repositorio en github con readme y gitignore</h1>
 
 ![a](img/Captura.PNG)
 
